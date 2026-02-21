@@ -20,7 +20,7 @@ Desain dibuat clean, minimalis, dan responsif agar nyaman digunakan di berbagai 
 
 ## 🌐 Demo Website
 Klik link berikut untuk melihat website:
-https://primandikabagas.github.io/landing-page-agama/
+https://bagasprimandika.github.io/landing-page-agama/
 
 
 ## 👨‍💻 Author
